@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ABDULHAMIT\\Desktop\\ETicaretUygulaması\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj": {}
+    "C:\\Users\\ABDULHAMIT\\Desktop\\ETicaret\\ETicaretUygulaması\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ABDULHAMIT\\Desktop\\ETicaretUygulaması\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj": {
+    "C:\\Users\\ABDULHAMIT\\Desktop\\ETicaret\\ETicaretUygulaması\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ABDULHAMIT\\Desktop\\ETicaretUygulaması\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ABDULHAMIT\\Desktop\\ETicaret\\ETicaretUygulaması\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj",
         "projectName": "ETicaretAPI.Domain",
-        "projectPath": "C:\\Users\\ABDULHAMIT\\Desktop\\ETicaretUygulaması\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj",
+        "projectPath": "C:\\Users\\ABDULHAMIT\\Desktop\\ETicaret\\ETicaretUygulaması\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj",
         "packagesPath": "C:\\Users\\ABDULHAMIT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ABDULHAMIT\\Desktop\\ETicaretUygulaması\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\obj\\",
+        "outputPath": "C:\\Users\\ABDULHAMIT\\Desktop\\ETicaret\\ETicaretUygulaması\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
