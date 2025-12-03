@@ -17,13 +17,13 @@ namespace ETicaretAPI.Persistence
         {
             //IOC Container'a Persistence katmanındaki servislerin eklenmesi işlemleri burada yapılacak
             services.AddDbContext<ETicaretAPIDbContext>(options => options.UseNpgsql(Configuration.ConnectionString),
-                ServiceLifetime.Singleton);
-            services.AddSingleton<IProductReadRepository, ProductReadRepository>();
-            services.AddSingleton<IProductWriteRepository, ProductWriteRepository>();
-            services.AddSingleton<IOrderReadRepository, OrderReadRepository>();
-            services.AddSingleton<IOrderWriteRepository, OrderWriteRepository>();
-            services.AddSingleton<IProductWriteRepository, ProductWriteRepository>();
-            services.AddSingleton<IProductReadRepository, ProductReadRepository>();
+                ServiceLifetime.Scoped);
+            services.AddScoped<IProductReadRepository, ProductReadRepository>();
+            services.AddScoped<IProductWriteRepository, ProductWriteRepository>();
+            services.AddScoped<IOrderReadRepository, OrderReadRepository>();
+            services.AddScoped<IOrderWriteRepository, OrderWriteRepository>();
+            services.AddScoped<IProductWriteRepository, ProductWriteRepository>();
+            services.AddScoped<IProductReadRepository, ProductReadRepository>();
         }
     }
 }
